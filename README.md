@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning UX Design
+- 🤔 I’m looking for an Apprenticeship in UX-UI
+- 📫 How to reach me: paul.galopin@efrei.net
+- ⚡ Fun fact: I like to travel a lot, I did a tour of France by train
+
 <!--
 **LPGGEM/LPGGEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
